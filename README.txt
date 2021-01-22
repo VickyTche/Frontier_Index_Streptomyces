@@ -1,4 +1,4 @@
-# Frontier_Index_Streptomyces
+Frontier_Index_Streptomyces
 
 Jupyter notebook file for the determination of the Frontier Index from 3C contact maps of WT Streptomyces ambofaciens. Data used:
 L216: WT cells grown during 24h in YEME
